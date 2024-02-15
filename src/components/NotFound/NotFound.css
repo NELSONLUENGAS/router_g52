@@ -1,0 +1,6 @@
+#not-found {
+	background-image: url('../../assets/img/404.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100vh;
+}
